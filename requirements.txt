@@ -1,0 +1,15 @@
+autopep8==2.0.2
+charset-normalizer==3.1.0
+click-didyoumean==0.3.0
+colorama==0.4.6
+DateTime==5.1
+docopt==0.6.2
+greenlet==2.0.2
+progress==1.6
+psycopg2-binary==2.9.6
+pycodestyle==2.10.0
+python-dotenv==1.0.0
+SQLAlchemy==2.0.15
+tomli==2.0.1
+typing_extensions==4.6.0
+zope.interface==6.0
